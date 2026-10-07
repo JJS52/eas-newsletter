@@ -1,57 +1,60 @@
 #hotspot: Marymoor Park
-#period: Sep 23 - Sep 29, 2026
-#week: 202640
+#period: Sep 30 - Oct 6, 2026
+#week: 202641
 Species,Count
-"American Crow",393
-"Canada Goose",81
-"Cedar Waxwing",68
-"Rock Pigeon (Feral Pigeon)",34
-"European Starling",24
-"Song Sparrow",21
-"Killdeer",20
-"Black-capped Chickadee",19
-"Mallard",19
-"Golden-crowned Sparrow",18
-"American Robin",16
-"House Finch",14
-"Spotted Towhee",13
-"Yellow-rumped Warbler",13
-"White-crowned Sparrow",12
-"Bewick's Wren",10
+"American Crow",510
+"Canada Goose",232
+"Golden-crowned Sparrow",46
+"Yellow-rumped Warbler",45
+"American Goldfinch",43
+"American Robin",37
+"Cedar Waxwing",37
+"Song Sparrow",37
+"European Starling",33
+"Mallard",29
+"House Finch",28
+"Black-capped Chickadee",26
+"Killdeer",26
+"Spotted Towhee",23
+"Red-winged Blackbird",22
+"Western Meadowlark",18
+"Dark-eyed Junco",16
+"Wood Duck",16
+"Gadwall",14
+"Golden-crowned Kinglet",11
+"Chestnut-backed Chickadee",10
+"Fox Sparrow",10
 "Northern Flicker",10
-"Dark-eyed Junco",9
-"Gadwall",7
-"Great Blue Heron",7
-"Red-breasted Nuthatch",7
-"Wood Duck",7
-"Anna's Hummingbird",6
-"Red-winged Blackbird",6
-"Fox Sparrow",5
-"Chestnut-backed Chickadee",4
-"Common Merganser",4
-"Golden-crowned Kinglet",4
-"Steller's Jay",4
-"Brown Creeper",3
-"Dark-eyed Junco (Oregon)",3
-"Purple Finch",3
-"Western Meadowlark",3
-"Common Yellowthroat",2
-"Evening Grosbeak",2
-"Glaucous-winged Gull",2
-"Lincoln's Sparrow",2
-"Pied-billed Grebe",2
-"Pileated Woodpecker",2
-"Bald Eagle",1
-"Belted Kingfisher",1
-"Black-throated Gray Warbler",1
-"Cackling Goose",1
-"California Scrub-Jay",1
-"Chipping Sparrow",1
-"Cooper's Hawk",1
-"Downy Woodpecker",1
-"Hooded Merganser",1
-"Marsh Wren",1
-"Merlin",1
+"White-crowned Sparrow",10
+"Bewick's Wren",9
+"Ruby-crowned Kinglet",9
+"Steller's Jay",9
+"Rock Pigeon (Feral Pigeon)",8
+"Common Merganser",7
+"Savannah Sparrow",7
+"Belted Kingfisher",6
+"Bushtit",6
+"Cackling Goose",6
+"Glaucous-winged Gull",6
+"Great Blue Heron",6
+"Bald Eagle",5
+"Downy Woodpecker",5
+"Anna's Hummingbird",4
+"Pied-billed Grebe",4
+"Red-breasted Nuthatch",4
+"American Pipit",3
+"Cooper's Hawk",3
+"Greater White-fronted Goose",3
+"Pacific Wren",2
+"Purple Finch",2
+"American Kestrel",1
+"American Wigeon",1
+"Brown Creeper",1
+"Common Raven",1
+"Common Yellowthroat",1
+"Lincoln's Sparrow",1
+"Pileated Woodpecker",1
 "Red-tailed Hawk",1
-"Ruby-crowned Kinglet",1
 "Virginia Rail",1
+"Western/Glaucous-winged Gull",1
+"Wilson's Snipe",1
