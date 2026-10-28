@@ -1,62 +1,82 @@
 #hotspot: Juanita Bay Park
-#period: Oct 14 - Oct 20, 2026
-#week: 202643
+#period: Oct 21 - Oct 27, 2026
+#week: 202644
 Species,Count
-"American Coot",1071
-"American Crow",792
-"Wood Duck",311
-"Gadwall",209
-"Mallard",190
-"Double-crested Cormorant",158
-"American Wigeon",91
-"Dark-eyed Junco",84
-"Pied-billed Grebe",81
-"Canada Goose",71
-"Black-capped Chickadee",58
-"Red-winged Blackbird",58
-"Song Sparrow",49
-"American Robin",41
-"Bushtit",37
-"Ring-necked Duck",33
-"Cackling Goose",30
-"Spotted Towhee",30
-"Cedar Waxwing",26
-"Golden-crowned Kinglet",26
-"Chestnut-backed Chickadee",25
-"Green-winged Teal",25
-"Killdeer",25
-"Ruby-crowned Kinglet",25
-"Red-breasted Nuthatch",23
-"Bewick's Wren",20
-"House Finch",20
-"Belted Kingfisher",18
-"gull sp.",18
-"Downy Woodpecker",17
-"Great Blue Heron",17
-"Anna's Hummingbird",16
-"Bald Eagle",16
-"Northern Shoveler",15
-"Northern Flicker",14
-"Golden-crowned Sparrow",13
-"Pacific Wren",13
-"Pine Siskin",13
-"Marsh Wren",12
-"Steller's Jay",12
+"American Coot",2460
+"American Crow",1405
+"Wood Duck",581
+"Gadwall",336
+"Pine Siskin",309
+"Mallard",295
+"Double-crested Cormorant",287
+"American Wigeon",275
+"Canada Goose",235
+"Black-capped Chickadee",166
+"Bushtit",155
+"Dark-eyed Junco",126
+"Song Sparrow",99
+"Cackling Goose",92
+"Pied-billed Grebe",86
+"Spotted Towhee",76
+"Killdeer",74
+"Red-winged Blackbird",70
+"Ring-necked Duck",68
+"Golden-crowned Kinglet",53
+"American Robin",52
+"Ruby-crowned Kinglet",52
+"gull sp.",45
+"Green-winged Teal",44
+"Wilson's Snipe",44
+"European Starling",38
+"House Finch",36
+"Chestnut-backed Chickadee",35
+"passerine sp.",35
+"Bald Eagle",31
+"Northern Shoveler",31
+"Great Blue Heron",30
+"Pacific Wren",29
+"Downy Woodpecker",28
+"Bewick's Wren",27
+"Bufflehead",26
+"Marsh Wren",26
+"Northern Flicker",23
+"Anna's Hummingbird",22
+"Belted Kingfisher",20
+"Red-breasted Nuthatch",19
+"Yellow-rumped Warbler",19
+"Golden-crowned Sparrow",18
+"Steller's Jay",17
+"Glaucous-winged Gull",16
+"Fox Sparrow",15
+"Brown Creeper",12
 "Virginia Rail",12
-"Wilson's Snipe",11
-"Yellow-rumped Warbler",8
-"American Goldfinch",6
-"duck sp.",6
-"White-crowned Sparrow",6
-"Glaucous-winged Gull",4
-"Cooper's Hawk",3
-"European Starling",3
-"Fox Sparrow",3
-"Brown Creeper",2
-"Greater Yellowlegs",1
+"White-crowned Sparrow",11
+"American Goldfinch",10
+"Cedar Waxwing",8
+"Cooper's Hawk",8
+"peep sp.",8
+"Redhead",6
+"Rock Pigeon (Feral Pigeon)",5
+"Short-billed Gull",5
+"duck sp.",4
+"Ring-billed Gull",4
+"Western x Glaucous-winged Gull (hybrid)",4
+"House Sparrow",3
+"Mallard (Domestic type)",3
+"Orange-crowned Warbler",3
+"Townsend's Warbler",3
+"Varied Thrush",3
+"dabbling duck sp.",2
+"Purple Finch",2
+"Brandt's Cormorant",1
+"Common Raven",1
+"Eurasian Wigeon",1
 "Hairy Woodpecker",1
-"Merlin",1
-"Northern Harrier",1
-"Redhead",1
-"Ring-billed Gull",1
-"Ruddy Duck",1
+"Hermit Thrush",1
+"Horned Grebe",1
+"Northern Flicker (Red-shafted)",1
+"Osprey",1
+"Peregrine Falcon",1
+"Pileated Woodpecker",1
+"Red-tailed Hawk",1
+"White-throated Sparrow",1
