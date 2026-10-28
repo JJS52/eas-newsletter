@@ -1,89 +1,105 @@
 #hotspot: Marymoor Park
-#period: Oct 14 - Oct 20, 2026
-#week: 202643
+#period: Oct 21 - Oct 27, 2026
+#week: 202644
 Species,Count
-"Cackling Goose",1471
-"American Crow",1136
-"Canada Goose",301
-"goose sp.",300
-"American Robin",281
-"Cedar Waxwing",162
-"Golden-crowned Sparrow",126
-"Rock Pigeon (Feral Pigeon)",108
-"Song Sparrow",105
-"Pine Siskin",87
-"Killdeer",83
-"House Finch",82
-"Mallard",80
-"Black-capped Chickadee",66
-"Spotted Towhee",64
-"Dark-eyed Junco",63
-"Bushtit",45
-"European Starling",44
-"Pied-billed Grebe",39
-"Yellow-rumped Warbler",37
-"Red-winged Blackbird",33
-"Double-crested Cormorant",29
+"American Crow",1541
+"Cackling Goose",880
+"American Robin",537
+"Canada Goose",435
+"European Starling",348
+"Pine Siskin",238
+"Cedar Waxwing",200
+"Golden-crowned Sparrow",192
+"Song Sparrow",179
+"House Finch",176
+"Dark-eyed Junco",123
+"Mallard",122
+"Black-capped Chickadee",118
+"Bushtit",117
+"Yellow-rumped Warbler",109
+"Double-crested Cormorant",107
+"Gadwall",107
+"Spotted Towhee",101
+"Red-winged Blackbird",99
+"Glaucous-winged Gull",85
+"Killdeer",81
+"Northern Flicker",68
+"Pied-billed Grebe",55
+"Western/Glaucous-winged Gull",48
+"Fox Sparrow",44
+"Ruby-crowned Kinglet",44
+"Steller's Jay",44
+"Western Meadowlark",44
+"Golden-crowned Kinglet",41
+"White-crowned Sparrow",40
+"Dark-eyed Junco (Oregon)",37
+"Chestnut-backed Chickadee",36
+"American Goldfinch",34
+"Rock Pigeon (Feral Pigeon)",32
+"Anna's Hummingbird",31
+"Pacific Wren",28
+"Red-breasted Nuthatch",28
+"Wood Duck",28
 "Bewick's Wren",27
-"Northern Flicker",27
-"Steller's Jay",27
-"Wood Duck",27
-"Anna's Hummingbird",26
-"Gadwall",26
-"Great Blue Heron",22
-"Fox Sparrow",21
-"Cackling/Canada Goose",20
-"Glaucous-winged Gull",20
-"Ruby-crowned Kinglet",20
-"White-crowned Sparrow",19
-"Chestnut-backed Chickadee",18
-"American Goldfinch",17
-"Belted Kingfisher",16
-"Golden-crowned Kinglet",15
-"Pacific Wren",13
-"Brown Creeper",12
-"Marsh Wren",11
-"Purple Finch",11
-"Red-tailed Hawk",11
-"Western Meadowlark",11
-"Common Merganser",10
-"Downy Woodpecker",9
-"Red-breasted Nuthatch",9
-"Bushtit (Pacific)",8
-"Cooper's Hawk",8
-"Song Sparrow (rufina Group)",6
-"White-throated Sparrow",6
-"American Coot",5
-"Bald Eagle",5
-"Bohemian Waxwing",5
-"gull sp.",4
+"duck sp.",25
+"Marsh Wren",24
+"American Coot",23
+"Belted Kingfisher",23
+"Bufflehead",23
+"American Robin (migratorius Group)",22
+"Bald Eagle",22
+"gull sp.",20
+"Brown Creeper",19
+"Cooper's Hawk",19
+"Downy Woodpecker",18
+"Canada Goose (moffitti/maxima)",16
+"Great Blue Heron",13
+"Purple Finch",13
+"American Pipit",12
+"Spotted Towhee (oregonus Group)",12
+"California Gull",11
+"Lincoln's Sparrow",11
+"Wilson's Snipe",11
+"Bonaparte's Gull",10
+"Northern Shrike",10
+"Red-tailed Hawk",10
+"Snow Goose",10
+"Varied Thrush",10
+"Pileated Woodpecker",9
+"American Kestrel",8
+"Sharp-shinned Hawk",8
+"Song Sparrow (rufina Group)",8
+"Savannah Sparrow",7
+"White-throated Sparrow",7
+"Great Horned Owl",6
+"Northern Saw-whet Owl",6
+"Pacific Wren (Pacific)",6
+"Virginia Rail",6
+"Barred Owl",5
+"Fox Sparrow (Sooty)",5
+"Northern Flicker (Red-shafted)",5
+"Bewick's Wren (spilurus Group)",4
 "Hairy Woodpecker",4
 "House Sparrow",4
-"Lincoln's Sparrow",4
-"Northern Shrike",4
-"Brewer's Blackbird",3
-"Larus sp.",3
-"Pileated Woodpecker",3
+"Mourning Dove",4
+"American Barn Owl",3
+"bird sp.",3
+"Great Blue Heron (Great Blue)",3
+"Red Crossbill",3
 "Red-breasted Sapsucker",3
-"Sharp-shinned Hawk",3
-"Snow Goose",3
-"Spotted Towhee (oregonus Group)",3
-"Varied Thrush",3
-"Virginia Rail",3
-"Bufflehead",2
-"Northern Pintail",2
-"passerine sp.",2
-"Western x Glaucous-winged Gull (hybrid)",2
-"Wilson's Snipe",2
-"Yellow-rumped Warbler (Audubon's)",2
-"American Herring Gull",1
-"bird sp.",1
-"Evening Grosbeak",1
-"Fox Sparrow (Sooty)",1
-"Hooded Merganser",1
+"American Wigeon",2
+"Bohemian Waxwing",2
+"Common Yellowthroat",2
+"Green-winged Teal",2
+"Marsh Wren (paludicola Group)",2
+"Northern Harrier",2
+"Ring-billed Gull",2
+"California Scrub-Jay",1
+"Common Merganser",1
+"Dark-eyed Junco (Slate-colored)",1
+"Greater/Lesser Scaup",1
 "Merlin",1
-"Northern Harrier",1
-"Red Crossbill",1
-"Ring-billed Gull",1
+"Northern Shoveler",1
 "Ring-necked Duck",1
-"Western Grebe",1
+"Western Screech-Owl",1
+"Western Screech-Owl (Northern)",1
