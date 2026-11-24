@@ -1,1 +1,791 @@
 Date,Species,Count
+2026-10-28,"American Wigeon",2
+2026-10-28,"Mallard",6
+2026-10-28,"Anna's Hummingbird",1
+2026-10-28,"American Coot",1
+2026-10-28,"Wilson's Snipe",2
+2026-10-28,"Western x Glaucous-winged Gull (hybrid)",1
+2026-10-28,"Larus sp.",12
+2026-10-28,"Pied-billed Grebe",3
+2026-10-28,"Double-crested Cormorant",6
+2026-10-28,"Great Blue Heron",1
+2026-10-28,"Bald Eagle",1
+2026-10-28,"Red-tailed Hawk",1
+2026-10-28,"Belted Kingfisher",1
+2026-10-28,"Northern Flicker",2
+2026-10-28,"American Crow",60
+2026-10-28,"Black-capped Chickadee",12
+2026-10-28,"Chestnut-backed Chickadee",1
+2026-10-28,"Ruby-crowned Kinglet",2
+2026-10-28,"Golden-crowned Kinglet",3
+2026-10-28,"Brown Creeper",2
+2026-10-28,"Bewick's Wren",1
+2026-10-28,"Varied Thrush",2
+2026-10-28,"American Robin",30
+2026-10-28,"Cedar Waxwing",5
+2026-10-28,"House Finch",1
+2026-10-28,"Pine Siskin",40
+2026-10-28,"Fox Sparrow",1
+2026-10-28,"Dark-eyed Junco",6
+2026-10-28,"Golden-crowned Sparrow",10
+2026-10-28,"Song Sparrow",6
+2026-10-28,"Spotted Towhee",5
+2026-10-29,"Cackling Goose",57
+2026-10-29,"Canada Goose",9
+2026-10-29,"Wood Duck",4
+2026-10-29,"Gadwall",17
+2026-10-29,"American Wigeon",3
+2026-10-29,"Mallard",36
+2026-10-29,"Ring-necked Duck",1
+2026-10-29,"Bufflehead",32
+2026-10-29,"Rock Pigeon (Feral Pigeon)",11
+2026-10-29,"Mourning Dove",1
+2026-10-29,"Anna's Hummingbird",1
+2026-10-29,"Virginia Rail",1
+2026-10-29,"American Coot",1
+2026-10-29,"Killdeer",2
+2026-10-29,"Wilson's Snipe",1
+2026-10-29,"Short-billed Gull",3
+2026-10-29,"Glaucous-winged Gull",7
+2026-10-29,"Pied-billed Grebe",3
+2026-10-29,"Double-crested Cormorant",24
+2026-10-29,"Green Heron",1
+2026-10-29,"Great Blue Heron",3
+2026-10-29,"Cooper's Hawk",3
+2026-10-29,"Bald Eagle",2
+2026-10-29,"Belted Kingfisher",1
+2026-10-29,"Downy Woodpecker",1
+2026-10-29,"Pileated Woodpecker",1
+2026-10-29,"Northern Flicker",6
+2026-10-29,"Merlin",1
+2026-10-29,"Northern Shrike",1
+2026-10-29,"Steller's Jay",3
+2026-10-29,"American Crow",95
+2026-10-29,"Black-capped Chickadee",14
+2026-10-29,"Ruby-crowned Kinglet",2
+2026-10-29,"Golden-crowned Kinglet",2
+2026-10-29,"Red-breasted Nuthatch",2
+2026-10-29,"Brown Creeper",1
+2026-10-29,"Pacific Wren",4
+2026-10-29,"Marsh Wren (paludicola Group)",1
+2026-10-29,"Bewick's Wren",8
+2026-10-29,"European Starling",75
+2026-10-29,"Varied Thrush",1
+2026-10-29,"American Robin",40
+2026-10-29,"Cedar Waxwing",1
+2026-10-29,"House Finch",31
+2026-10-29,"Pine Siskin",20
+2026-10-29,"American Goldfinch",2
+2026-10-29,"Fox Sparrow",7
+2026-10-29,"Dark-eyed Junco",26
+2026-10-29,"White-crowned Sparrow",6
+2026-10-29,"Golden-crowned Sparrow",32
+2026-10-29,"White-throated Sparrow",2
+2026-10-29,"Song Sparrow",18
+2026-10-29,"Spotted Towhee",17
+2026-10-29,"Western Meadowlark",3
+2026-10-29,"Red-winged Blackbird",16
+2026-10-29,"Yellow-rumped Warbler",1
+2026-10-30,"Cackling Goose",14
+2026-10-30,"Canada Goose",2
+2026-10-30,"Wood Duck",2
+2026-10-30,"Gadwall",2
+2026-10-30,"Mallard",6
+2026-10-30,"Rock Pigeon (Feral Pigeon)",2
+2026-10-30,"California Gull",2
+2026-10-30,"Double-crested Cormorant",3
+2026-10-30,"Great Blue Heron",3
+2026-10-30,"Cooper's Hawk",1
+2026-10-30,"Red-tailed Hawk",1
+2026-10-30,"Belted Kingfisher",1
+2026-10-30,"Northern Flicker",1
+2026-10-30,"American Crow",10
+2026-10-30,"Black-capped Chickadee",4
+2026-10-30,"Chestnut-backed Chickadee",2
+2026-10-30,"Bushtit",2
+2026-10-30,"Golden-crowned Kinglet",1
+2026-10-30,"Pacific Wren",1
+2026-10-30,"European Starling",4
+2026-10-30,"American Robin",4
+2026-10-30,"Dark-eyed Junco",2
+2026-10-30,"Song Sparrow",1
+2026-10-30,"Spotted Towhee",2
+2026-10-31,"Cackling Goose",25
+2026-10-31,"Canada Goose",57
+2026-10-31,"Trumpeter/Tundra Swan",4
+2026-10-31,"Wood Duck",4
+2026-10-31,"Northern Shoveler",1
+2026-10-31,"Gadwall",18
+2026-10-31,"Mallard",26
+2026-10-31,"Ring-necked Duck",8
+2026-10-31,"Rock Pigeon (Feral Pigeon)",33
+2026-10-31,"Mourning Dove",1
+2026-10-31,"Anna's Hummingbird",2
+2026-10-31,"American Coot",4
+2026-10-31,"Glaucous-winged Gull",6
+2026-10-31,"Larus sp.",4
+2026-10-31,"Pied-billed Grebe",3
+2026-10-31,"Double-crested Cormorant",40
+2026-10-31,"Great Blue Heron",7
+2026-10-31,"Sharp-shinned Hawk",1
+2026-10-31,"Cooper's Hawk",5
+2026-10-31,"Northern Harrier",1
+2026-10-31,"Bald Eagle",2
+2026-10-31,"Red-tailed Hawk",3
+2026-10-31,"Belted Kingfisher",7
+2026-10-31,"Red-breasted Sapsucker",1
+2026-10-31,"Downy Woodpecker",4
+2026-10-31,"Northern Flicker",8
+2026-10-31,"Northern Shrike",1
+2026-10-31,"Steller's Jay",3
+2026-10-31,"American Crow",314
+2026-10-31,"Black-capped Chickadee",16
+2026-10-31,"Chestnut-backed Chickadee",3
+2026-10-31,"Bushtit",20
+2026-10-31,"Ruby-crowned Kinglet",5
+2026-10-31,"Golden-crowned Kinglet",3
+2026-10-31,"Red-breasted Nuthatch",9
+2026-10-31,"Brown Creeper",6
+2026-10-31,"Pacific Wren",2
+2026-10-31,"Marsh Wren (paludicola Group)",1
+2026-10-31,"Bewick's Wren",11
+2026-10-31,"European Starling",7
+2026-10-31,"American Robin",53
+2026-10-31,"House Finch",28
+2026-10-31,"Pine Siskin",95
+2026-10-31,"American Goldfinch",7
+2026-10-31,"Fox Sparrow",5
+2026-10-31,"Dark-eyed Junco",59
+2026-10-31,"White-crowned Sparrow",8
+2026-10-31,"Golden-crowned Sparrow",39
+2026-10-31,"White-throated Sparrow",2
+2026-10-31,"Savannah Sparrow",3
+2026-10-31,"Song Sparrow",48
+2026-10-31,"Lincoln's Sparrow",2
+2026-10-31,"Spotted Towhee",25
+2026-10-31,"Western Meadowlark",6
+2026-10-31,"Red-winged Blackbird",13
+2026-10-31,"Yellow-rumped Warbler",6
+2026-11-01,"Cackling Goose",1519
+2026-11-01,"Canada Goose",37
+2026-11-01,"Trumpeter/Tundra Swan",11
+2026-11-01,"Wood Duck",15
+2026-11-01,"Gadwall",28
+2026-11-01,"American Wigeon",4
+2026-11-01,"Mallard",23
+2026-11-01,"Green-winged Teal",1
+2026-11-01,"Bufflehead",7
+2026-11-01,"Rock Pigeon (Feral Pigeon)",33
+2026-11-01,"Anna's Hummingbird",4
+2026-11-01,"Virginia Rail",1
+2026-11-01,"American Coot",14
+2026-11-01,"Short-billed Gull",2
+2026-11-01,"Ring-billed Gull",5
+2026-11-01,"California Gull",1
+2026-11-01,"Glaucous-winged Gull",11
+2026-11-01,"Western x Glaucous-winged Gull (hybrid)",20
+2026-11-01,"Pied-billed Grebe",24
+2026-11-01,"Double-crested Cormorant",28
+2026-11-01,"Great Blue Heron",3
+2026-11-01,"Bald Eagle",8
+2026-11-01,"Red-tailed Hawk",1
+2026-11-01,"American Barn Owl",1
+2026-11-01,"Belted Kingfisher",3
+2026-11-01,"Red-breasted Sapsucker",1
+2026-11-01,"Downy Woodpecker",2
+2026-11-01,"Hairy Woodpecker",1
+2026-11-01,"Pileated Woodpecker",5
+2026-11-01,"Northern Flicker",11
+2026-11-01,"Merlin",1
+2026-11-01,"Northern Shrike",1
+2026-11-01,"Steller's Jay",6
+2026-11-01,"American Crow",22
+2026-11-01,"Black-capped Chickadee",29
+2026-11-01,"Bushtit",27
+2026-11-01,"Ruby-crowned Kinglet",8
+2026-11-01,"Golden-crowned Kinglet",6
+2026-11-01,"Red-breasted Nuthatch",3
+2026-11-01,"Brown Creeper",1
+2026-11-01,"Pacific Wren",5
+2026-11-01,"Marsh Wren",2
+2026-11-01,"Marsh Wren (paludicola Group)",4
+2026-11-01,"Bewick's Wren",9
+2026-11-01,"European Starling",37
+2026-11-01,"Varied Thrush",4
+2026-11-01,"American Robin",60
+2026-11-01,"Cedar Waxwing",5
+2026-11-01,"American Pipit",1
+2026-11-01,"House Finch",20
+2026-11-01,"Red Crossbill",4
+2026-11-01,"Pine Siskin",312
+2026-11-01,"Fox Sparrow",3
+2026-11-01,"Dark-eyed Junco",14
+2026-11-01,"White-crowned Sparrow",11
+2026-11-01,"Golden-crowned Sparrow",25
+2026-11-01,"White-throated Sparrow",2
+2026-11-01,"Song Sparrow",21
+2026-11-01,"Lincoln's Sparrow",1
+2026-11-01,"Spotted Towhee",7
+2026-11-01,"Western Meadowlark",2
+2026-11-01,"Red-winged Blackbird",6
+2026-11-01,"Yellow-rumped Warbler",8
+2026-11-02,"Snow Goose",1
+2026-11-02,"Greater White-fronted Goose",6
+2026-11-02,"Cackling Goose",441
+2026-11-02,"Canada Goose",25
+2026-11-02,"Mallard",11
+2026-11-02,"American Coot",10
+2026-11-02,"Short-billed Gull",2
+2026-11-02,"Western x Glaucous-winged Gull (hybrid)",5
+2026-11-02,"Western/Glaucous-winged Gull",2
+2026-11-02,"Larus sp.",10
+2026-11-02,"Double-crested Cormorant",34
+2026-11-02,"Great Blue Heron",4
+2026-11-02,"Cooper's Hawk",2
+2026-11-02,"Bald Eagle",1
+2026-11-02,"Belted Kingfisher",1
+2026-11-02,"Pileated Woodpecker",2
+2026-11-02,"Northern Flicker",5
+2026-11-02,"Northern Shrike",1
+2026-11-02,"Steller's Jay",1
+2026-11-02,"American Crow",391
+2026-11-02,"Black-capped Chickadee",13
+2026-11-02,"Chestnut-backed Chickadee",4
+2026-11-02,"Bushtit",16
+2026-11-02,"Ruby-crowned Kinglet",6
+2026-11-02,"Golden-crowned Kinglet",3
+2026-11-02,"Pacific Wren",3
+2026-11-02,"Bewick's Wren",3
+2026-11-02,"American Robin",101
+2026-11-02,"House Finch",9
+2026-11-02,"Fox Sparrow",2
+2026-11-02,"Dark-eyed Junco",8
+2026-11-02,"White-crowned Sparrow",1
+2026-11-02,"Golden-crowned Sparrow",14
+2026-11-02,"White-throated Sparrow",1
+2026-11-02,"Savannah Sparrow",4
+2026-11-02,"Song Sparrow",13
+2026-11-02,"Spotted Towhee",8
+2026-11-02,"Red-winged Blackbird",5
+2026-11-02,"Yellow-rumped Warbler",2
+2026-11-03,"Canada Goose",1
+2026-11-03,"Gadwall",2
+2026-11-03,"Mallard",8
+2026-11-03,"Pied-billed Grebe",2
+2026-11-03,"Double-crested Cormorant",2
+2026-11-03,"Great Blue Heron",2
+2026-11-03,"Belted Kingfisher",1
+2026-11-03,"Downy Woodpecker",1
+2026-11-03,"Northern Flicker",1
+2026-11-03,"American Crow",55
+2026-11-03,"Black-capped Chickadee",5
+2026-11-03,"Chestnut-backed Chickadee",4
+2026-11-03,"Ruby-crowned Kinglet",1
+2026-11-03,"Golden-crowned Kinglet",5
+2026-11-03,"Red-breasted Nuthatch",1
+2026-11-03,"American Robin",24
+2026-11-03,"White-crowned Sparrow",1
+2026-11-03,"Golden-crowned Sparrow",3
+2026-11-03,"Song Sparrow",1
+2026-11-03,"Spotted Towhee",1
+2026-11-03,"Red-winged Blackbird",1
+2026-11-04,"Canada Goose",4
+2026-11-04,"Gadwall",8
+2026-11-04,"Mallard",23
+2026-11-04,"American Coot",77
+2026-11-04,"Pied-billed Grebe",2
+2026-11-04,"Great Blue Heron",3
+2026-11-04,"Bald Eagle",1
+2026-11-04,"Red-tailed Hawk",2
+2026-11-04,"Belted Kingfisher",1
+2026-11-04,"Downy Woodpecker",1
+2026-11-04,"Northern Flicker",6
+2026-11-04,"Steller's Jay",6
+2026-11-04,"American Crow",29
+2026-11-04,"Black-capped Chickadee",12
+2026-11-04,"Chestnut-backed Chickadee",4
+2026-11-04,"Bushtit",1
+2026-11-04,"Golden-crowned Kinglet",2
+2026-11-04,"Red-breasted Nuthatch",6
+2026-11-04,"Brown Creeper",2
+2026-11-04,"Bewick's Wren",1
+2026-11-04,"European Starling",2
+2026-11-04,"American Robin",13
+2026-11-04,"House Finch",7
+2026-11-04,"American Goldfinch",1
+2026-11-04,"Fox Sparrow",1
+2026-11-04,"Dark-eyed Junco",6
+2026-11-04,"Golden-crowned Sparrow",6
+2026-11-04,"White-throated Sparrow",1
+2026-11-04,"Song Sparrow",23
+2026-11-04,"Spotted Towhee",7
+2026-11-04,"Red-winged Blackbird",1
+2026-11-04,"Yellow-rumped Warbler",1
+2026-11-05,"Greater White-fronted Goose",4
+2026-11-05,"Cackling Goose",6
+2026-11-05,"Canada Goose",47
+2026-11-05,"Gadwall",7
+2026-11-05,"American Wigeon",1
+2026-11-05,"Mallard",17
+2026-11-05,"Rock Pigeon (Feral Pigeon)",50
+2026-11-05,"Anna's Hummingbird",1
+2026-11-05,"Virginia Rail",1
+2026-11-05,"American Coot",41
+2026-11-05,"Killdeer",1
+2026-11-05,"Wilson's Snipe",3
+2026-11-05,"Glaucous-winged Gull",17
+2026-11-05,"Pied-billed Grebe",7
+2026-11-05,"Double-crested Cormorant",6
+2026-11-05,"Great Blue Heron",3
+2026-11-05,"Sharp-shinned Hawk",1
+2026-11-05,"Bald Eagle",7
+2026-11-05,"American Barn Owl",1
+2026-11-05,"Western Screech-Owl",1
+2026-11-05,"Northern Saw-whet Owl",2
+2026-11-05,"Belted Kingfisher",2
+2026-11-05,"Downy Woodpecker",1
+2026-11-05,"Northern Flicker",5
+2026-11-05,"Northern Flicker (Red-shafted)",2
+2026-11-05,"Merlin",1
+2026-11-05,"Steller's Jay",3
+2026-11-05,"American Crow",104
+2026-11-05,"Black-capped Chickadee",4
+2026-11-05,"Chestnut-backed Chickadee",4
+2026-11-05,"Bushtit",10
+2026-11-05,"Ruby-crowned Kinglet",4
+2026-11-05,"Red-breasted Nuthatch",1
+2026-11-05,"Brown Creeper",2
+2026-11-05,"Pacific Wren",5
+2026-11-05,"Bewick's Wren",6
+2026-11-05,"European Starling",201
+2026-11-05,"American Robin",19
+2026-11-05,"House Finch",12
+2026-11-05,"Purple Finch",3
+2026-11-05,"Pine Siskin",136
+2026-11-05,"American Goldfinch",2
+2026-11-05,"Fox Sparrow",2
+2026-11-05,"Fox Sparrow (Sooty)",1
+2026-11-05,"Dark-eyed Junco",17
+2026-11-05,"White-crowned Sparrow",8
+2026-11-05,"Golden-crowned Sparrow",14
+2026-11-05,"White-throated Sparrow",1
+2026-11-05,"Song Sparrow",18
+2026-11-05,"Lincoln's Sparrow",2
+2026-11-05,"Spotted Towhee",6
+2026-11-05,"Western Meadowlark",7
+2026-11-05,"Red-winged Blackbird",15
+2026-11-07,"Canada Goose",23
+2026-11-07,"Trumpeter Swan",3
+2026-11-07,"Gadwall",6
+2026-11-07,"American Wigeon",4
+2026-11-07,"Mallard",22
+2026-11-07,"Hooded Merganser",3
+2026-11-07,"Rock Pigeon (Feral Pigeon)",50
+2026-11-07,"Anna's Hummingbird",1
+2026-11-07,"American Coot",88
+2026-11-07,"Short-billed Gull",27
+2026-11-07,"Ring-billed Gull",2
+2026-11-07,"Western x Glaucous-winged Gull (hybrid)",1
+2026-11-07,"Pied-billed Grebe",4
+2026-11-07,"Double-crested Cormorant",4
+2026-11-07,"Sharp-shinned Hawk",1
+2026-11-07,"Cooper's Hawk",2
+2026-11-07,"Bald Eagle",5
+2026-11-07,"Red-tailed Hawk",1
+2026-11-07,"Belted Kingfisher",4
+2026-11-07,"Red-breasted Sapsucker",1
+2026-11-07,"Downy Woodpecker",4
+2026-11-07,"Northern Flicker",5
+2026-11-07,"Northern Flicker (Red-shafted)",1
+2026-11-07,"Steller's Jay",6
+2026-11-07,"American Crow",121
+2026-11-07,"Black-capped Chickadee",22
+2026-11-07,"Chestnut-backed Chickadee",7
+2026-11-07,"Bushtit",45
+2026-11-07,"Ruby-crowned Kinglet",5
+2026-11-07,"Golden-crowned Kinglet",8
+2026-11-07,"Red-breasted Nuthatch",17
+2026-11-07,"Brown Creeper",4
+2026-11-07,"Pacific Wren",3
+2026-11-07,"Marsh Wren (paludicola Group)",1
+2026-11-07,"Bewick's Wren",5
+2026-11-07,"European Starling",3
+2026-11-07,"Varied Thrush",1
+2026-11-07,"American Robin",41
+2026-11-07,"Cedar Waxwing",5
+2026-11-07,"House Sparrow",2
+2026-11-07,"House Finch",15
+2026-11-07,"Purple Finch",1
+2026-11-07,"Red Crossbill",1
+2026-11-07,"Pine Siskin",10
+2026-11-07,"American Goldfinch",1
+2026-11-07,"Fox Sparrow",6
+2026-11-07,"Dark-eyed Junco",15
+2026-11-07,"Dark-eyed Junco (Oregon)",45
+2026-11-07,"White-crowned Sparrow",4
+2026-11-07,"Golden-crowned Sparrow",12
+2026-11-07,"White-throated Sparrow",1
+2026-11-07,"Song Sparrow",20
+2026-11-07,"Spotted Towhee",8
+2026-11-07,"Western Meadowlark",13
+2026-11-08,"Canada Goose",2
+2026-11-08,"Mallard",4
+2026-11-08,"Bald Eagle",X
+2026-11-08,"Downy Woodpecker",X
+2026-11-08,"Northern Flicker",2
+2026-11-08,"American Crow",30
+2026-11-08,"Black-capped Chickadee",1
+2026-11-08,"Bushtit",X
+2026-11-08,"Red-breasted Nuthatch",1
+2026-11-08,"Marsh Wren (paludicola Group)",2
+2026-11-08,"Bewick's Wren",1
+2026-11-08,"European Starling",30
+2026-11-08,"American Robin",14
+2026-11-08,"Cedar Waxwing",2
+2026-11-08,"House Finch",X
+2026-11-08,"Fox Sparrow",1
+2026-11-08,"Dark-eyed Junco",X
+2026-11-08,"White-crowned Sparrow",X
+2026-11-08,"Golden-crowned Sparrow",1
+2026-11-08,"Song Sparrow",8
+2026-11-08,"Lincoln's Sparrow",1
+2026-11-08,"Spotted Towhee",1
+2026-11-08,"Western Meadowlark",X
+2026-11-08,"Brewer's Blackbird",2
+2026-11-09,"Canada Goose",2
+2026-11-09,"Trumpeter Swan",2
+2026-11-09,"Gadwall",6
+2026-11-09,"Mallard",2
+2026-11-09,"Ring-necked Duck",1
+2026-11-09,"Common Merganser",2
+2026-11-09,"Rock Pigeon (Feral Pigeon)",2
+2026-11-09,"Anna's Hummingbird",3
+2026-11-09,"American Coot",50
+2026-11-09,"Killdeer",1
+2026-11-09,"Short-billed Gull",35
+2026-11-09,"Double-crested Cormorant",9
+2026-11-09,"Bald Eagle",2
+2026-11-09,"Belted Kingfisher",2
+2026-11-09,"Downy Woodpecker",1
+2026-11-09,"Hairy Woodpecker",1
+2026-11-09,"Pileated Woodpecker",2
+2026-11-09,"Northern Flicker",5
+2026-11-09,"Steller's Jay",5
+2026-11-09,"American Crow",29
+2026-11-09,"Black-capped Chickadee",17
+2026-11-09,"Chestnut-backed Chickadee",X
+2026-11-09,"Bushtit",5
+2026-11-09,"Ruby-crowned Kinglet",6
+2026-11-09,"Golden-crowned Kinglet",11
+2026-11-09,"Red-breasted Nuthatch",2
+2026-11-09,"Brown Creeper",2
+2026-11-09,"Pacific Wren",1
+2026-11-09,"Marsh Wren (paludicola Group)",2
+2026-11-09,"Bewick's Wren",6
+2026-11-09,"European Starling",25
+2026-11-09,"American Robin",19
+2026-11-09,"Cedar Waxwing",6
+2026-11-09,"House Finch",27
+2026-11-09,"Pine Siskin",100
+2026-11-09,"Dark-eyed Junco",3
+2026-11-09,"Golden-crowned Sparrow",11
+2026-11-09,"Song Sparrow",14
+2026-11-09,"Spotted Towhee",10
+2026-11-09,"Red-winged Blackbird",3
+2026-11-11,"Gadwall",6
+2026-11-11,"Mallard",6
+2026-11-11,"American Coot",65
+2026-11-11,"Larus sp.",5
+2026-11-11,"Great Blue Heron",1
+2026-11-11,"Belted Kingfisher",1
+2026-11-11,"Northern Flicker",2
+2026-11-11,"Steller's Jay",2
+2026-11-11,"American Crow",10
+2026-11-11,"Black-capped Chickadee",21
+2026-11-11,"Chestnut-backed Chickadee",1
+2026-11-11,"Bushtit",2
+2026-11-11,"Ruby-crowned Kinglet",6
+2026-11-11,"Golden-crowned Kinglet",9
+2026-11-11,"Brown Creeper",1
+2026-11-11,"Bewick's Wren",3
+2026-11-11,"European Starling",50
+2026-11-11,"American Robin",1
+2026-11-11,"House Finch",17
+2026-11-11,"Pine Siskin",3
+2026-11-11,"American Goldfinch",4
+2026-11-11,"Fox Sparrow",2
+2026-11-11,"Dark-eyed Junco",7
+2026-11-11,"White-crowned Sparrow",1
+2026-11-11,"Golden-crowned Sparrow",8
+2026-11-11,"Song Sparrow",7
+2026-11-11,"Spotted Towhee",3
+2026-11-12,"Cackling Goose",50
+2026-11-12,"Canada Goose",18
+2026-11-12,"Wood Duck",2
+2026-11-12,"Gadwall",7
+2026-11-12,"Mallard",5
+2026-11-12,"Ring-necked Duck",3
+2026-11-12,"Bufflehead",7
+2026-11-12,"Common Merganser",13
+2026-11-12,"Rock Pigeon (Feral Pigeon)",30
+2026-11-12,"Virginia Rail",1
+2026-11-12,"American Coot",100
+2026-11-12,"Short-billed Gull",3
+2026-11-12,"Larus sp.",2
+2026-11-12,"Pied-billed Grebe",5
+2026-11-12,"Double-crested Cormorant",8
+2026-11-12,"Great Blue Heron",2
+2026-11-12,"Cooper's Hawk",1
+2026-11-12,"Bald Eagle",1
+2026-11-12,"Red-tailed Hawk",1
+2026-11-12,"Belted Kingfisher",2
+2026-11-12,"Downy Woodpecker",3
+2026-11-12,"Northern Flicker",5
+2026-11-12,"Steller's Jay",5
+2026-11-12,"American Crow",185
+2026-11-12,"Black-capped Chickadee",17
+2026-11-12,"Chestnut-backed Chickadee",1
+2026-11-12,"Bushtit",20
+2026-11-12,"Ruby-crowned Kinglet",5
+2026-11-12,"Golden-crowned Kinglet",10
+2026-11-12,"Brown Creeper",1
+2026-11-12,"Pacific Wren",3
+2026-11-12,"Marsh Wren (paludicola Group)",2
+2026-11-12,"Bewick's Wren",3
+2026-11-12,"European Starling",6
+2026-11-12,"American Robin",44
+2026-11-12,"Cedar Waxwing",10
+2026-11-12,"House Finch",21
+2026-11-12,"Purple Finch",3
+2026-11-12,"Pine Siskin",90
+2026-11-12,"American Goldfinch",3
+2026-11-12,"Fox Sparrow",5
+2026-11-12,"Dark-eyed Junco",7
+2026-11-12,"White-crowned Sparrow",12
+2026-11-12,"Golden-crowned Sparrow",13
+2026-11-12,"Song Sparrow",18
+2026-11-12,"Spotted Towhee",8
+2026-11-12,"Western Meadowlark",10
+2026-11-12,"Red-winged Blackbird",1
+2026-11-13,"Canada Goose",16
+2026-11-13,"Mallard",17
+2026-11-13,"Downy Woodpecker",1
+2026-11-13,"Northern Flicker",3
+2026-11-13,"American Crow",1
+2026-11-13,"Black-capped Chickadee",2
+2026-11-13,"Golden-crowned Kinglet",1
+2026-11-13,"Brown Creeper",1
+2026-11-13,"Pacific Wren",1
+2026-11-13,"European Starling",50
+2026-11-13,"American Robin",2
+2026-11-13,"House Finch",10
+2026-11-13,"Pine Siskin",8
+2026-11-13,"Dark-eyed Junco",1
+2026-11-13,"Spotted Towhee",2
+2026-11-14,"Cackling Goose",20
+2026-11-14,"Canada Goose",23
+2026-11-14,"Gadwall",8
+2026-11-14,"Mallard",35
+2026-11-14,"Common Merganser",4
+2026-11-14,"Killdeer",3
+2026-11-14,"Pied-billed Grebe",3
+2026-11-14,"American Bittern",1
+2026-11-14,"Great Blue Heron",1
+2026-11-14,"Red-tailed Hawk",2
+2026-11-14,"Western Screech-Owl",2
+2026-11-14,"Western Screech-Owl (Northern)",1
+2026-11-14,"Great Horned Owl",1
+2026-11-14,"Barred Owl",2
+2026-11-14,"Short-eared Owl",0
+2026-11-14,"owl sp.",0
+2026-11-14,"Belted Kingfisher",2
+2026-11-14,"Northern Flicker",3
+2026-11-14,"American Crow",265
+2026-11-14,"Black-capped Chickadee",10
+2026-11-14,"Chestnut-backed Chickadee",6
+2026-11-14,"Bushtit",18
+2026-11-14,"Ruby-crowned Kinglet",4
+2026-11-14,"Golden-crowned Kinglet",2
+2026-11-14,"Brown Creeper",1
+2026-11-14,"European Starling",10
+2026-11-14,"American Robin",47
+2026-11-14,"House Finch",10
+2026-11-14,"Purple Finch",1
+2026-11-14,"Pine Siskin",120
+2026-11-14,"Fox Sparrow",3
+2026-11-14,"Golden-crowned Sparrow",9
+2026-11-14,"Zonotrichia sp.",1
+2026-11-14,"Song Sparrow",12
+2026-11-14,"Lincoln's Sparrow",2
+2026-11-14,"Spotted Towhee",12
+2026-11-14,"Red-winged Blackbird",5
+2026-11-15,"Cackling Goose",3
+2026-11-15,"Canada Goose",13
+2026-11-15,"Wood Duck",6
+2026-11-15,"Gadwall",9
+2026-11-15,"American Wigeon",1
+2026-11-15,"Mallard",7
+2026-11-15,"Ring-necked Duck",2
+2026-11-15,"Common Merganser",7
+2026-11-15,"Rock Pigeon (Feral Pigeon)",12
+2026-11-15,"Virginia Rail",1
+2026-11-15,"Killdeer",2
+2026-11-15,"Wilson's Snipe",5
+2026-11-15,"Glaucous-winged Gull",1
+2026-11-15,"Pied-billed Grebe",3
+2026-11-15,"Great Blue Heron",2
+2026-11-15,"Sharp-shinned Hawk",1
+2026-11-15,"Cooper's Hawk",1
+2026-11-15,"Bald Eagle",2
+2026-11-15,"Red-tailed Hawk",1
+2026-11-15,"Western Screech-Owl",1
+2026-11-15,"Great Horned Owl",1
+2026-11-15,"Barred Owl",1
+2026-11-15,"Short-eared Owl",1
+2026-11-15,"Northern Saw-whet Owl (acadicus)",1
+2026-11-15,"Belted Kingfisher",2
+2026-11-15,"Downy Woodpecker",1
+2026-11-15,"Northern Flicker",2
+2026-11-15,"Steller's Jay",1
+2026-11-15,"American Crow",33
+2026-11-15,"Black-capped Chickadee",2
+2026-11-15,"Chestnut-backed Chickadee",3
+2026-11-15,"Bushtit",12
+2026-11-15,"Ruby-crowned Kinglet",4
+2026-11-15,"Golden-crowned Kinglet",4
+2026-11-15,"Red-breasted Nuthatch",1
+2026-11-15,"Brown Creeper",1
+2026-11-15,"Bewick's Wren",1
+2026-11-15,"European Starling",50
+2026-11-15,"American Robin",32
+2026-11-15,"Cedar Waxwing",25
+2026-11-15,"Red Crossbill",3
+2026-11-15,"Pine Siskin",100
+2026-11-15,"American Goldfinch",2
+2026-11-15,"Fox Sparrow",1
+2026-11-15,"Dark-eyed Junco",5
+2026-11-15,"Golden-crowned Sparrow",6
+2026-11-15,"Song Sparrow",11
+2026-11-15,"Spotted Towhee",7
+2026-11-15,"Western Meadowlark",2
+2026-11-15,"Red-winged Blackbird",3
+2026-11-15,"Yellow-rumped Warbler",1
+2026-11-16,"Cackling Goose",40
+2026-11-16,"Canada Goose",2
+2026-11-16,"Gadwall",2
+2026-11-16,"Mallard",2
+2026-11-16,"California Gull",2
+2026-11-16,"Glaucous-winged Gull",1
+2026-11-16,"Double-crested Cormorant",2
+2026-11-16,"Merlin",1
+2026-11-16,"Steller's Jay",1
+2026-11-16,"American Crow",20
+2026-11-16,"Chestnut-backed Chickadee",4
+2026-11-16,"European Starling",2
+2026-11-16,"American Robin",2
+2026-11-16,"House Finch",2
+2026-11-16,"Dark-eyed Junco",2
+2026-11-16,"Song Sparrow",2
+2026-11-16,"Spotted Towhee",1
+2026-11-18,"Snow Goose",1
+2026-11-18,"Cackling Goose",200
+2026-11-18,"Canada Goose",15
+2026-11-18,"Mallard",10
+2026-11-18,"American Coot",54
+2026-11-18,"Larus sp.",10
+2026-11-18,"Belted Kingfisher",2
+2026-11-18,"Steller's Jay",3
+2026-11-18,"American Crow",37
+2026-11-18,"Black-capped Chickadee",5
+2026-11-18,"European Starling",10
+2026-11-18,"American Robin",10
+2026-11-18,"House Finch",6
+2026-11-18,"Pine Siskin",1
+2026-11-18,"Golden-crowned Sparrow",6
+2026-11-18,"Song Sparrow",5
+2026-11-18,"Red-winged Blackbird",1
+2026-11-19,"Snow Goose",1
+2026-11-19,"Cackling Goose",511
+2026-11-19,"Canada Goose",30
+2026-11-19,"Trumpeter Swan",13
+2026-11-19,"Wood Duck",1
+2026-11-19,"Gadwall",7
+2026-11-19,"American Wigeon",4
+2026-11-19,"Mallard",14
+2026-11-19,"Lesser Scaup",2
+2026-11-19,"Bufflehead",12
+2026-11-19,"Common Merganser",1
+2026-11-19,"Rock Pigeon (Feral Pigeon)",23
+2026-11-19,"Killdeer",1
+2026-11-19,"Short-billed Gull",1
+2026-11-19,"Ring-billed Gull",1
+2026-11-19,"Pied-billed Grebe",4
+2026-11-19,"Double-crested Cormorant",38
+2026-11-19,"Great Blue Heron",4
+2026-11-19,"Cooper's Hawk",1
+2026-11-19,"Bald Eagle",3
+2026-11-19,"Belted Kingfisher",1
+2026-11-19,"Downy Woodpecker",3
+2026-11-19,"Hairy Woodpecker",2
+2026-11-19,"Pileated Woodpecker",1
+2026-11-19,"Northern Flicker",2
+2026-11-19,"Steller's Jay",2
+2026-11-19,"American Crow",201
+2026-11-19,"Black-capped Chickadee",9
+2026-11-19,"Ruby-crowned Kinglet",3
+2026-11-19,"Golden-crowned Kinglet",2
+2026-11-19,"Red-breasted Nuthatch",2
+2026-11-19,"Brown Creeper",2
+2026-11-19,"Pacific Wren",4
+2026-11-19,"Bewick's Wren",3
+2026-11-19,"American Robin",20
+2026-11-19,"House Finch",11
+2026-11-19,"Pine Siskin",30
+2026-11-19,"Fox Sparrow",5
+2026-11-19,"Dark-eyed Junco",4
+2026-11-19,"Golden-crowned Sparrow",16
+2026-11-19,"White-throated Sparrow",1
+2026-11-19,"Song Sparrow",9
+2026-11-19,"Spotted Towhee",5
+2026-11-19,"Western Meadowlark",2
+2026-11-19,"Red-winged Blackbird",8
+2026-11-21,"Canada Goose",8
+2026-11-21,"Mallard",13
+2026-11-21,"Rock Pigeon (Feral Pigeon)",16
+2026-11-21,"Belted Kingfisher",1
+2026-11-21,"American Crow",43
+2026-11-21,"Black-capped Chickadee",1
+2026-11-21,"Chestnut-backed Chickadee",2
+2026-11-21,"Golden-crowned Kinglet",2
+2026-11-21,"Red-breasted Nuthatch",4
+2026-11-21,"European Starling",25
+2026-11-21,"American Robin",2
+2026-11-21,"Golden-crowned Sparrow",8
+2026-11-21,"Western Meadowlark",2
+2026-11-22,"Cackling Goose",35
+2026-11-22,"Canada Goose",8
+2026-11-22,"Gadwall",2
+2026-11-22,"Mallard",4
+2026-11-22,"Common Merganser",2
+2026-11-22,"American Coot",4
+2026-11-22,"Pied-billed Grebe",1
+2026-11-22,"Belted Kingfisher",1
+2026-11-22,"Pileated Woodpecker",1
+2026-11-22,"Northern Flicker",2
+2026-11-22,"Steller's Jay",2
+2026-11-22,"American Crow",55
+2026-11-22,"Black-capped Chickadee",4
+2026-11-22,"Chestnut-backed Chickadee",1
+2026-11-22,"Ruby-crowned Kinglet",2
+2026-11-22,"Bewick's Wren",2
+2026-11-22,"Varied Thrush",1
+2026-11-22,"American Robin",33
+2026-11-22,"House Finch",4
+2026-11-22,"Red Crossbill",3
+2026-11-22,"Pine Siskin",X
+2026-11-22,"American Goldfinch",6
+2026-11-22,"Fox Sparrow",1
+2026-11-22,"Dark-eyed Junco",2
+2026-11-22,"Golden-crowned Sparrow",29
+2026-11-22,"Song Sparrow",8
+2026-11-22,"Spotted Towhee",7
