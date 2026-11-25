@@ -1,72 +1,58 @@
 #hotspot: Marymoor Park
-#period: Nov 11 - Nov 17, 2026
-#week: 202647
+#period: Nov 18 - Nov 24, 2026
+#week: 202648
 Species,Count
-"American Crow",515
-"Pine Siskin",321
-"European Starling",169
-"American Coot",165
-"American Robin",128
-"Cackling Goose",115
-"Canada Goose",72
-"Mallard",72
-"House Finch",60
-"Black-capped Chickadee",52
-"Bushtit",52
-"Song Sparrow",50
-"Rock Pigeon (Feral Pigeon)",42
-"Golden-crowned Sparrow",36
-"Cedar Waxwing",35
-"Spotted Towhee",33
-"Gadwall",32
-"Golden-crowned Kinglet",26
-"Common Merganser",24
-"Dark-eyed Junco",22
-"Ruby-crowned Kinglet",19
-"Chestnut-backed Chickadee",15
-"Northern Flicker",15
-"White-crowned Sparrow",13
-"Western Meadowlark",12
-"Fox Sparrow",11
-"Pied-billed Grebe",11
-"Double-crested Cormorant",10
-"American Goldfinch",9
+"American Crow",1057
+"Cackling Goose",746
+"American Robin",86
+"Canada Goose",69
+"Golden-crowned Sparrow",60
+"American Coot",58
+"Mallard",41
+"European Starling",40
+"Rock Pigeon (Feral Pigeon)",39
+"Double-crested Cormorant",38
+"Pine Siskin",32
+"Black-capped Chickadee",29
+"Song Sparrow",23
+"House Finch",21
+"Spotted Towhee",13
+"Trumpeter Swan",13
+"Bufflehead",12
+"Larus sp.",12
+"Gadwall",9
 "Red-winged Blackbird",9
-"Steller's Jay",9
-"Wood Duck",8
-"Belted Kingfisher",7
-"Bewick's Wren",7
-"Bufflehead",7
-"Larus sp.",7
-"Great Blue Heron",6
-"Brown Creeper",5
-"Downy Woodpecker",5
-"Killdeer",5
-"Ring-necked Duck",5
-"Wilson's Snipe",5
+"Belted Kingfisher",8
+"Steller's Jay",7
+"American Goldfinch",6
+"Dark-eyed Junco",6
+"Fox Sparrow",6
+"Golden-crowned Kinglet",6
+"Pied-billed Grebe",6
+"Red-breasted Nuthatch",6
+"Western Meadowlark",6
+"Bewick's Wren",5
+"Northern Flicker",5
+"Ruby-crowned Kinglet",5
+"American Wigeon",4
+"Great Blue Heron",4
 "Pacific Wren",4
-"Purple Finch",4
-"Red-tailed Hawk",4
+"Short-billed Gull",4
 "Bald Eagle",3
-"Barred Owl",3
+"Chestnut-backed Chickadee",3
+"Common Merganser",3
+"Downy Woodpecker",3
 "Red Crossbill",3
-"Short-billed Gull",3
-"Western Screech-Owl",3
-"California Gull",2
-"Cooper's Hawk",2
-"Glaucous-winged Gull",2
-"Great Horned Owl",2
-"Lincoln's Sparrow",2
-"Marsh Wren (paludicola Group)",2
-"Virginia Rail",2
-"American Bittern",1
-"American Wigeon",1
-"Merlin",1
-"Northern Saw-whet Owl (acadicus)",1
-"Red-breasted Nuthatch",1
-"Sharp-shinned Hawk",1
-"Short-eared Owl",1
-"Western Screech-Owl (Northern)",1
-"Yellow-rumped Warbler",1
-"Zonotrichia sp.",1
-"owl sp.",0
+"Brown Creeper",2
+"Hairy Woodpecker",2
+"Lesser Scaup",2
+"Pileated Woodpecker",2
+"Snow Goose",2
+"Cooper's Hawk",1
+"Killdeer",1
+"Marsh Wren (paludicola Group)",1
+"Northern Flicker (Red-shafted)",1
+"Ring-billed Gull",1
+"Varied Thrush",1
+"White-throated Sparrow",1
+"Wood Duck",1
